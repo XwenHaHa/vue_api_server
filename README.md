@@ -18,4 +18,4 @@
 - `app.js` 主项目入口文件
 - `package.json` 项目配置文件
 -在命令行下执行node app.js命令即可执行文件
--该项目的后台接口地址是在http://127.0.0.1:8888/api/private/v1/下的
+-该项目的后台接口地址是在http://127.0.0.1:8888/api/private/v1/
